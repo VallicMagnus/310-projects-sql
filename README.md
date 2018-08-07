@@ -1,2 +1,2 @@
-# 310-projects-sql
+# 310-projects
 sql projects
